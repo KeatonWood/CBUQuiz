@@ -1,0 +1,82 @@
+[
+    {
+      "question": "There are 5 core Lasallian values. Which of these is NOT one of them?",
+      "choice1": "Commitment to Honesty and Integrity",
+      "choice2": "Quality Education",
+      "choice3": "Concern for the Poor, and Social Justice",
+      "choice4": "Faith in the Presence of God",
+      "answer": 1
+    },
+    {
+      "question": "Who was the founder of the De La Salle Christian Brothers and the values they represent?",
+      "choice1": "Frederick LaSalle",
+      "choice2": "John Baptiste de La Salle",
+      "choice3": "Jeffrey Baptiste de La Salle",
+      "choice4": "Mary Augustine de La Salle",
+      "answer": 2
+    },
+    {
+      "question": "What demographic were the Brothers' especially commited to upon their founding?",
+      "choice1": "Girls",
+      "choice2": "Christians",
+      "choice3": "The unfaithful",
+      "choice4": "The Poor",
+      "answer": 4
+    },
+    {
+        "question": "Lasallian tradition and values are rooted in which Christian tradition?",
+        "choice1": "Baptist",
+        "choice2": "Lutheran",
+        "choice3": "Evangelical",
+        "choice4": "Catholic",
+        "answer": 4
+    },
+    {
+        "question": "How many Lasallian colleges and Universities are in the United States as of 2023?",
+        "choice1": "10",
+        "choice2": "13",
+        "choice3": "6",
+        "choice4": "4",
+        "answer": 3
+    },
+    {
+        "question": "In which country was the De La Salle Christian Brothers first founded?",
+        "choice1": "France",
+        "choice2": "Italy",
+        "choice3": "Germany",
+        "choice4": "Spain",
+        "answer": 1
+    },
+    {
+        "question": "In which century was the institution of the De La Salle Brothers founded?",
+        "choice1": "18th Century",
+        "choice2": "17th Century",
+        "choice3": "19th Century",
+        "choice4": "16th Century",
+        "answer": 2
+    },
+    {
+        "question": "What title was given to the founder of the De La Salle Christian Brothers?",
+        "choice1": "God's Teacher",
+        "choice2": "The Catholic Mentor",
+        "choice3": "The Patron Saint of Teachers",
+        "choice4": "The Scholarly Saint",
+        "answer": 3
+    },
+    {
+        "question": "What is not one of the core values of Lasallian schools?",
+        "choice1": "Individualistic Excellence",
+        "choice2": "Help the disadvantaged and poor",
+        "choice3": "Foster a community where student's and teacher's help each other",
+        "choice4": "Support and advocate for service through education",
+        "answer": 1
+    },
+    {
+        "question": "How does one become a Lasallian Brother?",
+        "choice1": "Attend an annual retreat with other Brothers, and 5 to 8 years of profession and vows",
+        "choice2": "Become baptized by a Brother and commit to a year of vows",
+        "choice3": "Retreat to a year of living with the Brothers",
+        "choice4": "Apply at a Lasallian School",
+        "answer": 1
+    }
+]
